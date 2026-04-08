@@ -1,0 +1,5 @@
+laravel new
+npm install react-router-dom axios
+php artisan install:api
+npm create vite@latest my-app -- --template react-ts
+https://tailwindcss.com/docs/installation/using-vite
